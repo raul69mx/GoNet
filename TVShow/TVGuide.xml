@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<shows>
+  <show>
+    <id>1</id>
+    <name>Dr House</name>
+    <favourite>1</favourite>
+  </show>
+  <show>
+    <id>2</id>
+    <name>Brooklyn Nine-Nine</name>
+    <favourite>1</favourite>
+  </show>
+  <show>
+    <id>3</id>
+    <name>The Simpsons</name>
+    <favourite>1</favourite>
+  </show>
+  <show>
+    <id>4</id>
+    <name>X-Files</name>
+    <favourite>0</favourite>
+  </show>
+  <show>
+    <id>5</id>
+    <name>ALF</name>
+    <favourite>0</favourite>
+  </show>
+  <show>
+    <id>6</id>
+    <name>Game of Thrones</name>
+    <favourite>0</favourite>
+  </show>
+  <show>
+    <id>7</id>
+    <name>Modern Family</name>
+    <favourite>0</favourite>
+  </show>
+</shows>
